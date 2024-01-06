@@ -193,9 +193,11 @@ export default function Home() {
               {projects.map((product) => (
                 <a key={product.id} href={product.href} className="group relative">
                   <div className="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg  xl:aspect-h-8 xl:aspect-w-7">
-                    <img
+                    <Image
                       src={product.imageSrc}
                       alt={product.imageAlt}
+                      width={500}
+                      height={300}
                       className="h-full w-full object-cover object-center group-hover:opacity-75"
                     />
                   </div>
