@@ -22,7 +22,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={dosis.className}>
-        <header className=''>   <Header />       </header>
+        <header className=''>   <Header />      </header>
          <main > {children}   </main>
           <footer> <Footer /> </footer>
         </body>

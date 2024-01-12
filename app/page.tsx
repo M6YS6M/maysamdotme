@@ -19,23 +19,23 @@ const projects = [
   {
     id: 1,
     name: 'wildwood',
-    href: '/projects/181114-wildwood#',
+    href: '/181114-wildWood#',
     Date: '11-2018',
     imageSrc: '/thumbnail/20_wildwood_thumb_zimarc.png',
     imageAlt: 'detached Accessory Dwelling Unit (ADU) structures architecture by zimarc ',
   },
   {
-    id: 1,
+    id: 2,
     name: 'tree',
-    href: '/projects/180403-tree#',
+    href: '/180403-tree#',
     Date: 'April 2018',
     imageSrc: '/thumbnail/19_tree_thumb_zimarc.png',
     imageAlt: 'tree stand structures architecture by zimarc ',
   },
   {
-    id: 1,
+    id: 3,
     name: 'aurora',
-    href: '/projects/170906-auroraLa#',
+    href: '/170906-auroraLa#',
     Date: 'xyz',
     imageSrc: '/thumbnail/18_auroraLa_thumb_zimarc.png',
     imageAlt: ' interactive lobby experience structures design computation by zimarc ',
@@ -43,7 +43,7 @@ const projects = [
   {
     id: 1,
     name: 'LED Sphere',
-    href: '/projects/170901-ledSphere#',
+    href: '/170901-ledSphere#',
     Date: 'xyz',
     imageSrc: '/thumbnail/17_ledSphere_thumb_zimarc.png',
     imageAlt: 'LED Shere design concept architecture by zimarc ',
@@ -51,7 +51,7 @@ const projects = [
   {
     id: 1,
     name: 'voronofee',
-    href: '/projects/170323-voronofee#',
+    href: '/170323-voronofee#',
     Date: 'xyz',
     imageSrc: '/thumbnail/16_voronofee_thumb_zimarc.png',
     imageAlt: 'tensile membrane structures architecture by zimarc ',
@@ -59,7 +59,7 @@ const projects = [
   {
     id: 15,
     name: 'curvy',
-    href: '/projects/170128-curvy#',
+    href: '/170128-curvy#',
     Date: 'xyz',
     imageSrc: '/thumbnail/15_curvy_thumb_zimarc.png',
     imageAlt: 'tensile membrane structures architecture by zimarc ',
@@ -67,7 +67,7 @@ const projects = [
   {
     id: 14,
     name: 'arch',
-    href: '/projects/160920-arch#',
+    href: '/160920-arch#',
     Date: 'xyz',
     imageSrc: '/thumbnail/14_arch_thumb_zimarc.png',
     imageAlt: 'tensile membrane structures architecture by zimarc ',
@@ -75,7 +75,7 @@ const projects = [
   {
     id: 13,
     name: 'nest ArtDisCo',
-    href: '/projects/160616-nestArtDisCo#',
+    href: '/160616-nestArtDisCo#',
     Date: 'xyz',
     imageSrc: '/thumbnail/13_nestArtDisCo_thumb_zimarc.png',
     imageAlt: 'tensile membrane structures architecture by zimarc ',
@@ -83,7 +83,7 @@ const projects = [
   {
     id: 12,
     name: 'flower UniqueLa',
-    href: '/projects/160510-flowerUniqueLa#',
+    href: '/160510-flowerUniqueLa#',
     Date: 'xyz',
     imageSrc: '/thumbnail/12_flowerUniqueLa_thumb_zimarc.png',
     imageAlt: 'tensile membrane structures architecture by zimarc ',
@@ -91,7 +91,7 @@ const projects = [
   {
     id: 11,
     name: 'media Wall',
-    href: '/projects/160204-mediaWall#',
+    href: '/160204-mediaWall#',
     Date: 'xyz',
     imageSrc: '/thumbnail/11_mediaWall_thumb_zimarc.png',
     imageAlt: 'tensile membrane structures architecture by zimarc ',
@@ -99,7 +99,7 @@ const projects = [
   {
     id: 10,
     name: 'ManiFold',
-    href: '/projects/150803-maniFold#',
+    href: '/150803-maniFold#',
     Date: 'xyz',
     imageSrc: '/thumbnail/10_ManiFold_thumb_zimarc.png',
     imageAlt: 'tensile membrane structures architecture by zimarc ',
@@ -107,7 +107,7 @@ const projects = [
   {
     id: 9,
     name: 'Beautiful Incompletion',
-    href: '/projects/140515-beautifulIncompletion#',
+    href: '/140515-beautifulIncompletion#',
     Date: 'xyz',
     imageSrc: '/thumbnail/09_beautifulIncompletion_thumb_zimarc.png',
     imageAlt: 'tensile membrane structures architecture by zimarc ',
@@ -115,7 +115,7 @@ const projects = [
   {
     id: 8,
     name: 'RoboFab',
-    href: '/projects/111210-roboFab#',
+    href: '/111210-roboFab#',
     Date: 'xyz',
     imageSrc: '/thumbnail/08_roboFab_thumb_zimarc.png',
     imageAlt: 'tensile membrane structures architecture by zimarc ',
@@ -123,7 +123,7 @@ const projects = [
   {
     id: 7,
     name: 'cyclone',
-    href: '/projects/101209-cyclone#',
+    href: '/101209-cyclone#',
     Date: 'xyz',
     imageSrc: '/thumbnail/07_cyclone_thumb_zimarc.png',
     imageAlt: 'tensile membrane structures architecture by zimarc ',
@@ -131,7 +131,7 @@ const projects = [
   {
     id: 6,
     name: 'soulmate',
-    href: '/projects/100211-soulmate#',
+    href: '/100211-soulmate#',
     Date: 'xyz',
     imageSrc: '/thumbnail/06_soulmate_thumb_zimarc.png',
     imageAlt: 'tensile membrane structures architecture by zimarc ',
@@ -139,7 +139,7 @@ const projects = [
   {
     id: 5,
     name: 'iso',
-    href: '/projects/100202_iso#',
+    href: '/100202_iso#',
     Date: 'xyz',
     imageSrc: '/thumbnail/05_iso_thumb_zimarc.png',
     imageAlt: 'tensile membrane structures architecture by zimarc ',
@@ -147,7 +147,7 @@ const projects = [
   {
     id: 4,
     name: 'rhythm',
-    href: '/projects/090308_rhythm#',
+    href: '/090308_rhythm#',
     Date: 'xyz',
     imageSrc: '/thumbnail/04_rhythm_thumb_zimarc.png',
     imageAlt: 'tensile membrane structures architecture by zimarc ',
@@ -155,7 +155,7 @@ const projects = [
   {
     id: 3,
     name: 'paper Folding',
-    href: '/projects/081010-paperFolding#',
+    href: '/081010-paperFolding#',
     Date: 'xyz',
     imageSrc: '/thumbnail/03_paperFolding_thumb_zimarc.png',
     imageAlt: 'tensile membrane structures architecture by zimarc ',
@@ -163,7 +163,7 @@ const projects = [
   {
     id: 2,
     name: 'fine Art Fair Sf',
-    href: '/projects/071203-fineArtFairSf#',
+    href: '/071203-fineArtFairSf#',
     Date: 'xyz',
     imageSrc: '/thumbnail/02_fineArtFairSf_thumb_zimarc.png',
     imageAlt: 'tensile membrane structures architecture by zimarc ',
@@ -171,7 +171,7 @@ const projects = [
   {
     id: 2,
     name: 'membrance',
-    href: '/projects/071009-membrane#',
+    href: '/071009-membrane#',
     Date: 'xyz',
     imageSrc: '/thumbnail/01_membrance_thumb_zimarc.png',
     imageAlt: 'tensile membrane structures architecture by zimarc ',
